@@ -29,26 +29,26 @@ http://tv.teleclub.xyz/club/server_1/deportes/daznlaliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1max.png?raw=true" group-title="Deportes",DAZN Moto GP
 http://tv.teleclub.xyz/club/server_1/deportes/daznmotogp/index.m3u8
 
-#EXTINF:-1 tvg-id="0433" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs1.png?raw=true" group-title="Deportes",DSports Plus
-http://tv.teleclub.xyz/club/server_1/deportes/directvsports/index.m3u8
+#EXTINF:-1 tvg-id="0431" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs1.png?raw=true" group-title="Deportes",DSports
+https://98ca.pricesaskeloadsc.com/dsports/index.m3u8?token=7b8afaecc8bcc632ab445e207a635caeecde24b5-38-1738379645-1738347245
 
 #EXTINF:-1 tvg-id="0433" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs3.png?raw=true" group-title="Deportes",DSports Plus
-http://tv.teleclub.xyz/club/server_1/deportes/directvsportsplus/index.m3u8
+https://lae.pricesaskeloadsc.com/dsportsplus/index.m3u8?token=2f5bc59a6f654758a1b29dffd0a28c0ddfed2373-37-1738379897-1738347497
 
-#EXTINF:-1 tvg-id="0431" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs2.png?raw=true" group-title="Deportes",DSports
-http://tv.teleclub.xyz/club/server_1/deportes/directvsports2/index.m3u8
+#EXTINF:-1 tvg-id="0432" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs2.png?raw=true" group-title="Deportes",DSports 2
+https://ag9wzq.fubohd.com/dsports2/mono.m3u8?token=26395ae1773b9cc1aabee0fa7ffb450fb548f4fc-44-1738393643-1738357643
 
 #EXTINF:-1 tvg-id="1411" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espnn.png?raw=true" group-title="Deportes",ESPN - Argentina
 http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
 
 #EXTINF:-1 tvg-id="2412" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn2n.png?raw=true" group-title="Deportes",ESPN 2 - Argentina
-http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
+https://bmf0aw9u.fubohd.com/espn2/mono.m3u8?token=263e2040ca9d0f73d4a87623fd9d3ef6cb9f05e4-b7-1738392317-1738356317
 
 #EXTINF:-1 tvg-id="0413" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn3n.png?raw=true" group-title="Deportes",ESPN 3 - Argentina
-http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
+https://51a.pricesaskeloadsc.com/espn3/index.m3u8?token=29f76f82548a912e89877e2573586f738d659de9-9b-1738382849-1738350449
 
 #EXTINF:-1 tvg-id="2414" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn4ab.png?raw=true" group-title="Deportes",ESPN 4 - Sur
-http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
+https://cgxheq.fubohd.com/espn4/mono.m3u8?token=a69de18a85e99b225ace1fca354c03f2e49dc733-22-1738394387-1738358387
 
 #EXTINF:-1 tvg-id="0415" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn5.png?raw=true" group-title="Deportes",ESPN 5 - Chile
 http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
@@ -116,8 +116,8 @@ http://tvchile.pro:8080/dQG8B6AzpY/v5JBjBE2Px/316093
 #EXTINF:-1 tvg-id="0401" tvg-logo="https://ww2.movistar.cl/hogar/television/canales-premium/img/canales/tnt-sports-premium.jpg" group-title="Deportes",TNT Sport Premium
 http://tvchile.pro:8080/dQG8B6AzpY/v5JBjBE2Px/316090
 
-#EXTINF:-1 tvg-id="2403" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tntsports.png?raw=true" group-title="Deportes",TNT Sports Argentina
-http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
+#EXTINF:-1 tvg-id="2403" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tntsports.png?raw=true" group-title="Deportes",TNT Sports Premium Argentina
+https://bmf0aw9u.fubohd.com/tntsports/mono.m3u8?token=86736264e58eaf251c03c1b8fa98f9f400809db0-59-1738394709-1738358709
 
 #EXTINF:-1 tvg-id="0441" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudn.png?raw=true" group-title="Deportes",TUDN - México
 http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
